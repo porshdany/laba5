@@ -1,0 +1,5 @@
+/cygdrive/d/Projects/laba5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/Projects/laba5/cmake-build-debug/CMakeFiles/tests.dir
+/cygdrive/d/Projects/laba5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Projects/laba5/cmake-build-debug/CMakeFiles/source.dir
+/cygdrive/d/Projects/laba5/cmake-build-debug/CMakeFiles/test.dir
