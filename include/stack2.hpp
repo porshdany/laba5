@@ -1,5 +1,4 @@
-//Copyright 2019 <LinkIvan333>
-
+//Copyright 2019 <Porshdany>
 #ifndef INCLUDE_STACK2_HPP_
 #define INCLUDE_STACK2_HPP_
 #include <memory>
