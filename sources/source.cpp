@@ -1,4 +1,4 @@
-//Copyright 2019 <LinkIvan333>
+//Copyright 2019 <Porshdany>
 
 #include <stack1.hpp>
 #include <stack2.hpp>
