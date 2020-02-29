@@ -1,4 +1,4 @@
-//Copyright 2019 <LinkIvan333>
+//Copyright 2019 <Porshdany>
 
 #ifndef INCLUDE_STACK1_HPP_
 #define INCLUDE_STACK1_HPP_
